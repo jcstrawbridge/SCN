@@ -8,7 +8,13 @@
   <h2>
   OER @ NCSU
   </h2>
+	<p>
   <a href="https://www.lib.ncsu.edu/stories/when-textbook-you-need-hasnt-been-written-yet">When the textbook you want hasn't been written yet</a>
-	<a href="https://www.lib.ncsu.edu/faq/why-should-i-use-open-educational-resources-oer-my-class">Why wshould I use Open Educational Resources (OER) in my class?</a>
+  </p>
+  <p>
+	<a href="https://www.lib.ncsu.edu/faq/why-should-i-use-open-educational-resources-oer-my-class">Why should I use Open Educational Resources (OER) in my class?</a>
+  </p>
+  <p>
 	<a href="https://www.lib.ncsu.edu/open-educational-resources">Open Educational Resources at NC State</a>
+  </p>
 </html>
