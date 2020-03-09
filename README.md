@@ -8,4 +8,5 @@
   <h2>
   OER in the News
   </h2>
+  <a href="https://www.lib.ncsu.edu/stories/when-textbook-you-need-hasnt-been-written-yet">When the textbook you want hasn't been written yet</a>
 </html>
